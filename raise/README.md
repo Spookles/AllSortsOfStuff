@@ -32,7 +32,7 @@ It also contains my favorite macro, a macro that triggers the VS Code formatter 
 The gaming layer isn't anything special, just the default 1 layer but with a different lighting scheme.
 
 ---
-#### Layer 1 --- Gaming Utils
+#### Layer 8 --- Gaming Utils
 ![Layer 8](layers/l8.png)
 Considering I can split the Raise, I have a special layer for left handed actions only since the right half of the Raise would be disconnected to make more room for the mouse.
 
